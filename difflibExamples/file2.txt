@@ -1,0 +1,26 @@
+The default output produced by Differ is similar to the diff command line tool is simple with the Differ class. It includes the original input values from both lists, including common values, and markup data to indicate what changes were made.
+
+ng="en">
+<head>
+	<script type="text/javascript">
+		var spperformance = {
+			page_received: new Date().getTime(),
+			authenticated: true
+		};
+	</script>
+	<meta charset="utf-8">
+	<meta name="google" value="notranslate">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, requiresActiveX=true" >
+	<!--[if lte IE 8]>
+	<meta http-equiv="refresh" content="0;url=/error/browser-not-supported.php">
+	<![endif]-->
+	<title>Spotify Web Player</title>
+	<meta name="description" content="Music for every moment. Spotify is a digital music service that gives you access to millions of songs."/>
+
+	<!-- Twitter Mobile App Card -->
+	<meta name="twitter:card" content="app">
+	<meta name="twitter:description" content="Try Spotify Premium for free. Instant access to music, everywhere!">
+	<meta name="twitter:app:id:iphone" content="324684580">
+	<meta name="twitter:app:id:ipad" content="324684580">
+	<meta name="twitter:app:id:googleplay" content="com.spotify.mobile.android.ui">
+	<meta name="google-site-verification" content="iJ7M7wpXkFp2llNyXqrf6KQ7r5kBdr3yfHvt3rWMOWA" />
